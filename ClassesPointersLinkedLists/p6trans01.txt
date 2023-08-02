@@ -1,0 +1,19 @@
+ac 2 CSC575
+da Dulles
+da Rephrased
+dn 50
+dn 49
+dn 48
+dn 47
+dn 46
+da Curse
+ac 2 MTH230
+dc 0 CSC384
+dc 0 CSC384
+ac 0 CSC175
+dn 36
+dn 38
+ac 7 CHM121
+ac 7 MTH121
+ac 7 MTH122
+ac 7 CSC265

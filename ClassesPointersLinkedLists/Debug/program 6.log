@@ -1,0 +1,5 @@
+﻿  llist.cpp
+S:\Documents\School\UM-Flint\Fall 22\CSC-275 (C++)\Programs to do\program 6\llist.cpp(54,8): warning C4101: 'temp2': unreferenced local variable
+S:\Documents\School\UM-Flint\Fall 22\CSC-275 (C++)\Programs to do\program 6\llist.cpp(55,8): warning C4101: 'temp3': unreferenced local variable
+S:\Documents\School\UM-Flint\Fall 22\CSC-275 (C++)\Programs to do\program 6\llist.cpp(53,8): warning C4101: 'temp1': unreferenced local variable
+  program 6.vcxproj -> S:\Documents\School\UM-Flint\Fall 22\CSC-275 (C++)\Programs to do\program 6\Debug\program 6.exe
